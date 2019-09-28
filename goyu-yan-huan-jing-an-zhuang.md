@@ -89,9 +89,9 @@ array_darwin.go
 
 这个命令是用来移除当前源码包和关联源码包里面编译生成的文件，这些文件包括：
 
-\_obj/：旧的object目录，由Makefiles遗留
+* \_obj/：旧的object目录，由Makefiles遗留
 
-\_test/：旧的test目录，由Makefiles遗留
+* \_test/：旧的test目录，由Makefiles遗留
 
 \_testmain.go：旧的gotest文件，由Makefiles遗留
 
