@@ -61,7 +61,7 @@ array_windows.go
 array_darwin.go
 ```
 
-`go build`
+### go build
 
 会选择性的编译以系统名结尾的文件，例如，在Linux系统下编译只会选择array\_linux.go文件，其他系统命名后缀文件全部忽略！
 
