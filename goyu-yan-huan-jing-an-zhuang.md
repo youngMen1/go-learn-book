@@ -93,31 +93,31 @@ array_darwin.go
 
 * \_test/：旧的test目录，由Makefiles遗留
 
-\_testmain.go：旧的gotest文件，由Makefiles遗留
+* \_testmain.go：旧的gotest文件，由Makefiles遗留
 
-test.out：旧的test记录，由Makefiles遗留
+* test.out：旧的test记录，由Makefiles遗留
 
-build.out：旧的test记录，由Makefiles遗留
+* build.out：旧的test记录，由Makefiles遗留
 
-\*.\[568ao\]：object文件，由Makefiles遗留
+* \*.\[568ao\]：object文件，由Makefiles遗留
 
-DIR\(.exe\)：由go build产生
+* DIR\(.exe\)：由go build产生
 
-DIR.test\(.exe\)：由go test -c产生
+* DIR.test\(.exe\)：由go test -c产生
 
-MAINFILE\(.exe\)：由go build MAINFILE.go产生
+* MAINFILE\(.exe\)：由go build MAINFILE.go产生
 
-\*.so：由SWIG产生
+* \*.so：由SWIG产生
 
 参数介绍：
 
--i：清楚关联的安装包和可运行文件，也就是通过go install安装的文件
+* -i：清楚关联的安装包和可运行文件，也就是通过go install安装的文件
 
--n：把需要执行的清除命令打印出来，但是不执行
+* -n：把需要执行的清除命令打印出来，但是不执行
 
--f：循环的清除在import引入的包
+* -f：循环的清除在import引入的包
 
--x：打印出来执行的详细命令，与-n类似，只不过这个会执行
+* -x：打印出来执行的详细命令，与-n类似，只不过这个会执行
 
 ## 参考
 
