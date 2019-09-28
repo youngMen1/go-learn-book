@@ -122,6 +122,7 @@ array_darwin.go
 ### 等等。。。。。。。。。
 
 ## Go语言开发
+![img](/static/image/微信截图_20190928163056.png)
 
 ## 参考
 
