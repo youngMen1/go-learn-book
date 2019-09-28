@@ -123,7 +123,7 @@ array_darwin.go
 
 ## Go语言开发
 
-注意package需要为main
+**注意package需要为main**
 
 ![img](/static/image/微信截图_20190928163056.png)  
 ![img](/static/image/微信截图_20190928163249.png)
