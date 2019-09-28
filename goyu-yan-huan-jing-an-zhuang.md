@@ -20,5 +20,5 @@ Go 语言支持以下系统：
 | Mac | go1.4.darwin-amd64-osx10.8.pkg |
 | FreeBSD | go1.4.freebsd-amd64.tar.gz |
 
-!\[img\]\(./static/image/golist.jpg\)
+[img](./static/image/golist.jpg)
 
