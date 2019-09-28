@@ -119,6 +119,8 @@ array_darwin.go
 
 * -x：打印出来执行的详细命令，与-n类似，只不过这个会执行
 
+等等。。。。。。。。。
+
 ## 参考
 
 [https://blog.csdn.net/y472360651/article/details/82914263](https://blog.csdn.net/y472360651/article/details/82914263)
