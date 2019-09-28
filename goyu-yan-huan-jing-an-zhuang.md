@@ -22,5 +22,17 @@ Go 语言支持以下系统：
 
 ## ![img](/static/image/golist.jpg)Windows 系统下安装
 
+Windows 下可以使用 .msi 后缀\(在下载列表中可以找到该文件，如go1.4.2.windows-amd64.msi\)的安装包来安装。
+
+默认情况下**.msi**文件会安装在**c:\Go**目录下。你可以将**c:\Go\bin**目录添加到**Path**环境变量中。添加后你需要重启命令窗口才能生效。
+
+
+
+
+
+
+
+
+
 
 
