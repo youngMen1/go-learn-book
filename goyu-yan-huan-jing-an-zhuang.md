@@ -56,7 +56,9 @@ go build会自动忽略以\_或者.开头的go文件
 如果你的源代码针对不同操作系统需要不同的处理，那么你可以根据不同操作系统后缀来命名文件。例如有一个读取数组的程序，它对于不同的操作系统可能有如下几个源文件：
 
 ```
-array_linux.go array_windows.go array_darwin.go
+array_linux.go 
+array_windows.go 
+array_darwin.go
 ```
 
 ## 参考
