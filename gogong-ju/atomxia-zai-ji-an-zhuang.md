@@ -12,6 +12,10 @@
 
 ## 1.2.github下载及安装
 
+Atom在github上是开源的
+
+**官网：**https://github.com/atom
+
 # 2.参考
 Atom下载及安装：https://www.jianshu.com/p/c112f024e0ab
 Atom工具开源github地址：https://github.com/atom/atom
