@@ -47,7 +47,6 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 
 ![](/static/image/20200917190232339.png)
 
-
 **3.添加本机环境变量：**
 
 ![](/static/image/20200917190251883.png)
@@ -60,6 +59,6 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 
 # 2.参考
 
-[https://blog.csdn.net/weixin\_43591980/article/details/108650466](https://blog.csdn.net/weixin_43591980/article/details/108650466)  
+Golang 开发环境的下载与安装：[https://blog.csdn.net/weixin\_43591980/article/details/108650466](https://blog.csdn.net/weixin_43591980/article/details/108650466)  
 Goland 2019下载和安装：[http://c.biancheng.net/view/6124.html](http://c.biancheng.net/view/6124.html)
 
