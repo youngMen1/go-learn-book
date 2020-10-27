@@ -7,4 +7,4 @@ Goland 是由 JetBrains 公司开发的一个新的商业 IDE，旨在为 Go 开
 ![](/static/image/4-1910241H54A13.gif)
 # 参考
 https://blog.csdn.net/weixin_43591980/article/details/108650466
-http://c.biancheng.net/view/6124.html
+Goland 2019下载和安装：http://c.biancheng.net/view/6124.html
