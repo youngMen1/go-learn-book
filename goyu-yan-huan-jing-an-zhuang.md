@@ -20,7 +20,7 @@ Go 语言支持以下系统：
 | Mac | go1.4.darwin-amd64-osx10.8.pkg |
 | FreeBSD | go1.4.freebsd-amd64.tar.gz |
 
-## ![img](/static/image/golist.jpg)Windows 系统下安装
+## ![img](/static/image/golist.jpg)2.Windows 系统下安装
 
 Windows 下可以使用 .msi 后缀\(在下载列表中可以找到该文件，如go1.4.2.windows-amd64.msi\)的安装包来安装。
 
@@ -29,7 +29,7 @@ Windows 下可以使用 .msi 后缀\(在下载列表中可以找到该文件，�
 到这里go的基本配置就ok了，另外需要注意的是，你的go项目文件，都是放在工作目录里面的src下面的，一个项目一个文件。  
 ![img](/static/image/微信截图_20190928154122.png)
 
-### Go基本命令
+### 3.Go基本命令
 
 go语言自带一套完整的命令操作系统，你可以在终端中执行go命令来进行查看！接下来介绍一些常用的go命令操作
 
@@ -121,7 +121,7 @@ array_darwin.go
 
 ### 等等。。。。。。。。。
 
-## Go语言开发
+## 4.Go语言开发
 
 **注意package需要为main**
 
