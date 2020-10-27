@@ -20,8 +20,8 @@ Goland 是由 JetBrains 公司开发的一个新的商业 IDE，旨在为 Go 开
 
 Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压缩文件版。
 
-![](/static/image/2020091719002888.png)
-![](/static/image/2020091719004298.png)
+![](/static/image/2020091719002888.png)  
+![](/static/image/2020091719004298.png)  
 ![](/static/image/20200917190057710.png)
 
 **注意：**安装目录选择自己容易找到的目录即可。
@@ -40,10 +40,10 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 | Windows | %USERPROFILE%/go | C:\Users\用户名\go |
 | Unix | $HOME/go | /home/用户名/go |
 
-这里我选择在电脑D盘下新建GOPATH：D:\GoLang\GoLang-workspace
+这里我选择在电脑D盘下新建GOPATH：D:\GoLang\GoLang-workspace  
 ![](/static/image/20200917190203206.png)
 
-GOROOT 位于自己的GO开发包安装的位置：E:\Go
+**GOROOT 位于自己的GO开发包安装的位置：**E:\Go
 
 ![](/static/image/20200917190232339.png)
 
@@ -52,8 +52,11 @@ GOROOT 位于自己的GO开发包安装的位置：E:\Go
 ![](/static/image/20200917190251883.png)
 
 ![](/static/image/20200917190307995.png)
+
 ### 1.2.2.使用Goland 创建一个Go项目
+
 ![](/static/image/20200917190325607.png)
+
 # 2.参考
 
 [https://blog.csdn.net/weixin\_43591980/article/details/108650466](https://blog.csdn.net/weixin_43591980/article/details/108650466)  
