@@ -40,14 +40,14 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 | Windows | %USERPROFILE%/go | C:\Users\用户名\go |
 | Unix | $HOME/go | /home/用户名/go |
 
-**这里我选择在电脑D盘下新建GOPATH：**D:\GoLang\GoLang-workspace  
+**1.这里我选择在电脑D盘下新建GOPATH：**D:\GoLang\GoLang-workspace  
 ![](/static/image/20200917190203206.png)
 
-**GOROOT 位于自己的GO开发包安装的位置：**E:\Go
+**2.GOROOT 位于自己的GO开发包安装的位置：**E:\Go
 
 ![](/static/image/20200917190232339.png)
-
-添加本机环境变量：
+**
+添加本机环境变量：**
 
 ![](/static/image/20200917190251883.png)
 
