@@ -20,7 +20,7 @@
 
 菜鸟教程：[https://www.runoob.com/go/go-environment.html](https://www.runoob.com/go/go-environment.html)
 
-[https://blog.csdn.net/aa1215018028/article/details/81701324](https://blog.csdn.net/aa1215018028/article/details/81701324)
+Go 语言开发的17个项目：[https://blog.csdn.net/aa1215018028/article/details/81701324](https://blog.csdn.net/aa1215018028/article/details/81701324)
 
-好用的插件:[https://cloud.tencent.com/developer/article/1488165](https://cloud.tencent.com/developer/article/1488165)
+好用的插件：[https://cloud.tencent.com/developer/article/1488165](https://cloud.tencent.com/developer/article/1488165)
 
