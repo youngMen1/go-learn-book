@@ -43,6 +43,8 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 这里我选择在电脑D盘下新建GOPATH：D:\GoLang\GoLang-workspace
 20200917190203206.png
 
+GOROOT 位于自己的GO开发包安装的位置：E:\Go
+
 
 # 2.参考
 
