@@ -33,6 +33,10 @@ Atom在github上是开源的
 ![](/static/image/15304406-a2388a1aab2a138d.webp)
 
 # 2.总结
+![](/static/image/微信截图_20201027103703.png)
+
+![](/static/image/微信截图_20201027104834.png)
+
 
 # 3.参考
 Atom下载及安装：https://www.jianshu.com/p/c112f024e0ab
