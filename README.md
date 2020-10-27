@@ -1,6 +1,8 @@
-## go语言学习 方便查阅
+# 1.go语言学习
 
-## 参考:
+丰富技能,方便查阅
+
+# 2.参考:
 
 [https://www.runoob.com/go/go-environment.html](https://www.runoob.com/go/go-environment.html)
 
