@@ -31,23 +31,16 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 
 ### 1.2.1. 配置GOPATH
 
-`GOROOT`
+`GOROOT`和`GOPATH`都是环境变量，其中`GOROOT`是我们安装go开发包的路径，而从Go 1.8版本开始，Go开发包在安装完成后会为`GOPATH`设置一个默认目录，参见下表。
 
-和
+**GOPATH在不同操作系统平台上的默认值**
 
-`GOPATH`
+| 平台 | GOPATH默认值 | 举例 |
+| :--- | :--- | :--- |
+| Windows | %USERPROFILE%/go | C:\Users\用户名\go |
+| Unix | $HOME/go | /home/用户名/go |
 
-都是环境变量，其中
-
-`GOROOT`
-
-是我们安装go开发包的路径，而从Go 1.8版本开始，Go开发包在安装完成后会为
-
-`GOPATH`
-
-设置一个默认目录，参见下表。
-
-# 参考
+# 2.参考
 
 [https://blog.csdn.net/weixin\_43591980/article/details/108650466](https://blog.csdn.net/weixin_43591980/article/details/108650466)  
 Goland 2019下载和安装：[http://c.biancheng.net/view/6124.html](http://c.biancheng.net/view/6124.html)
