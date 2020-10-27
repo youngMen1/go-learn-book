@@ -33,8 +33,12 @@ Atom在github上是开源的
 ![](/static/image/15304406-a2388a1aab2a138d.webp)
 
 # 2.总结
+
+## 2.1.Goland下载地址
+
 ![](/static/image/微信截图_20201027103703.png)
 
+## 2.1.开发环境搭建
 ![](/static/image/微信截图_20201027104834.png)
 
 
