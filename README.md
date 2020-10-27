@@ -2,7 +2,7 @@
 
 丰富自己的第二技能,方便查阅。
 
-# 2.参考:
+# 2.参考
 
 https://www.runoob.com/go/go-environment.html
 
