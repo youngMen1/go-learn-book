@@ -40,6 +40,10 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 | Windows | %USERPROFILE%/go | C:\Users\用户名\go |
 | Unix | $HOME/go | /home/用户名/go |
 
+这里我选择在电脑D盘下新建GOPATH：D:\GoLang\GoLang-workspace
+20200917190203206.png
+
+
 # 2.参考
 
 [https://blog.csdn.net/weixin\_43591980/article/details/108650466](https://blog.csdn.net/weixin_43591980/article/details/108650466)  
