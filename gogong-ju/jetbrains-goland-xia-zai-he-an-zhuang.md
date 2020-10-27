@@ -10,6 +10,9 @@ Goland 是由 JetBrains 公司开发的一个新的商业 IDE，旨在为 Go 开
 
 ## 1.2.Golang开发环境的下载与安装
 
+Golang 官网国内镜像站点：https://golang.google.cn/dl/
+
+下图中的版本号可能并不是最新的，但总体来说安装教程是类似的。Go语言更新迭代比较快，推荐使用较新版本，体验最新特性：
 
 
 # 参考
