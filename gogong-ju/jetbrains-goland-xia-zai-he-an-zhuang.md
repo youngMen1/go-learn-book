@@ -51,7 +51,7 @@ GOROOT 位于自己的GO开发包安装的位置：E:\Go
 
 20200917190251883.png
 
-
+20200917190307995.png
 # 2.参考
 
 [https://blog.csdn.net/weixin\_43591980/article/details/108650466](https://blog.csdn.net/weixin_43591980/article/details/108650466)  
