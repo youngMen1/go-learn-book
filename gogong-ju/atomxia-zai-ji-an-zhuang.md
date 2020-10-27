@@ -20,6 +20,9 @@ Atom在github上是开源的
 微信截图_20201027114902.png
 **下载完成后的压缩包文件：**
 15304406-5962ce10525db2bd.webp
+
+**解压之后打开应用软件：**
+15304406-a2388a1aab2a138d.webp
 # 2.参考
 Atom下载及安装：https://www.jianshu.com/p/c112f024e0ab
 Atom工具开源github地址：https://github.com/atom/atom
