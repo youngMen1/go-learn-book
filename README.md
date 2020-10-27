@@ -18,7 +18,7 @@
 
 # 2.参考
 
-[https://www.runoob.com/go/go-environment.html](https://www.runoob.com/go/go-environment.html)
+菜鸟教程：[https://www.runoob.com/go/go-environment.html](https://www.runoob.com/go/go-environment.html)
 
 [https://blog.csdn.net/aa1215018028/article/details/81701324](https://blog.csdn.net/aa1215018028/article/details/81701324)
 
