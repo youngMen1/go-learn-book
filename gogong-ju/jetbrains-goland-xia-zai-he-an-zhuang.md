@@ -31,7 +31,7 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 
 ### 1.2.1. 配置GOPATH
 
-
+GOROOT和GOPATH都是环境变量，其中GOROOT是我们安装go开发包的路径，而从Go 1.8版本开始，Go开发包在安装完成后会为GOPATH设置一个默认目录，参见下表。
 
 
 # 参考
