@@ -27,6 +27,13 @@ Windows平台和Mac平台推荐下载可执行文件版，Linux平台下载压�
 
 **打开电脑CMD输入go version 查看是否安装成功：**
 20200917190115666.png
+
+
+### 1.2.1. 配置GOPATH
+
+
+
+
 # 参考
 https://blog.csdn.net/weixin_43591980/article/details/108650466
 Goland 2019下载和安装：http://c.biancheng.net/view/6124.html
