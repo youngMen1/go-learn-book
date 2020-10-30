@@ -8,4 +8,6 @@
 * [Go语言基本命令](gokai-fa-huan-jing-gou-jian.md)
 * Go语言基本程序结构
 * Go语言常用集合
+* Go语言字符串
+* Go语言函数
 
